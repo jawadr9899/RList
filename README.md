@@ -1,6 +1,5 @@
-# A CLI Program (Todo's List)!
-
-#### RList is A CLI program that is entirely written in Rust!
+# Notes Saving App for Cli 
+### A simple notes saving app that uses disk storage to store & retrieve notes 
 
 ## Clone
 
